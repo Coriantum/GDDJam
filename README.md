@@ -55,7 +55,7 @@ La establecida por el creador
 1. WASD para mover
 2. Clic izquierdo para Bloquear
 
-## Camara
+## Cámara
 Top Down
 
 ## Jugabilidad
@@ -66,11 +66,11 @@ El boton de bloqueo solo se podrá usar en el momento del aviso.
 Será sencillo,lo importante serán jugar con las luces para mostrar el momento de hacer los bloqueos y para los diseños de nivel.
 Si hay tiempo, sistema de particulas a la hora de destruír los enemigos o el jugador.
 
-## Historia
+# Historia
 Eres el rey del Parry.
 Gastaste todos tus puntos de habilidad en hacer parrys.
 Hay un solo pero...Las demás estadísticas están al minimo,puedes morir con el mínimo toque.
 
-## Nivel
+# Nivel
 Los niveles cambiarán de tonalidad de color para el fondo para señalar el cambio de nivel
 Si hay tiempo habría generación aleatoria de obstaculos, si no, será un nivel sin ellos.
